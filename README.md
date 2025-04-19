@@ -9,6 +9,7 @@ This project focuses on predicting customer churn for a business, using machine 
 - [Technologies Used](#technologies-used)
 - [Model Building](#model-building)
 - [Streamlit Web App](#streamlit-web-app)
+- [Video Demo](#video-demo)
 
 
 ## Overview
@@ -64,4 +65,6 @@ In addition to running the model through Jupyter or the command line, this proje
 
 5. The predictions will be displayed directly on the web page, along with relevant details such as the likelihood of churn, which will help businesses make data-driven decisions.
 
-
+## Video Demo
+Here’s a demo video of the Streamlit web app in action:
+Check out this helpful video: [YouTube Video](https://youtu.be/JtBGV1KV2ME)
